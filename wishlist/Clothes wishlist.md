@@ -33,12 +33,16 @@ tags: [wishlist, clothing]
 - [ ] Relaxed Baggy Jeans (Shade 2) | [Pinterest](https://fr.pinterest.com/pin/1109996639432176880/)
 - [ ] Utility Cargo / Parachute Pants | [Pinterest](https://fr.pinterest.com/pin/728527677256772669/)
 
-## 🧢 Caps
+## 🧢 Caps & Beanies
 - [ ] [Casacap](https://casacap.ma/casquettes/915-casquette-la.html)
 - [ ] [Casacap](https://casacap.ma/casquettes/1574-casquette-raiders-noir.html)
 - [ ] [Casacap](https://casacap.ma/casquettes/913-casquette-la.html)
 - [ ] [Casacap](https://casacap.ma/casquettes/1080-casquette-ny-bleu-marine-bm.html)
 - [ ] [Casquette NY](https://casacap.ma/casquettes/1580--casquette-ny.html)
+- [ ] Streetwear beanies | [Pinterest](https://fr.pinterest.com/pin/930485973046681476/)
+- [ ] Streetwear beanies | [Pinterest](https://fr.pinterest.com/pin/1017391372163290995/)
+- [ ] Streetwear beanies | [Pinterest](http://fr.pinterest.com/pin/979251512713640222/)
+- [ ] Streetwear beanies | [Pinterest](https://fr.pinterest.com/pin/1105000458609292548/)
 
 ---
 ## 📦 Purchased / Acquired
