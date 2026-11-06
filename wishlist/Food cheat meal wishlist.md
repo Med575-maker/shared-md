@@ -13,6 +13,7 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Joe's Pizza Detroit Style | Detroit-style pizza | [Instagram](https://www.instagram.com/joespizzadetroitstyle/?hl=fr)
 - [ ] Pizza Di Papi | Rue Ahmed El Joumari, Casablanca | [Instagram](https://www.instagram.com/pizzadipapi/?hl=fr)
 - [ ] Velucci | 42 Rue Moaffiq Eddine, Quartier des Hôpitaux, Casablanca
+- [ ] Little Mama
 
 ---
 
@@ -38,6 +39,7 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] CLUKY'S | Chicken & Smash Burgers | Maârif
 - [ ] 212 Smash Burger | Smash Burgers | O'Village / Aeria Mall
 - [ ] Oh My Bun | Burgers | [Instagram](https://www.instagram.com/ohmybun.ma/)
+- [ ] Blast | Burgers | [Instagram](https://www.instagram.com/blastcasablanca/)
 - [ ] Picks Maroc | Burgers / Fast Food | [Instagram](https://www.instagram.com/picks_maroc)
 
 ### Burger Chains & Fast Food
@@ -70,6 +72,8 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Tacos Only Morocco | Tacos & Street Food | [Instagram](https://www.instagram.com/tacosonly_morocco/)
 - [ ] KFC | Fried Chicken & Burgers
 - [ ] Chicken Crispy (FDerb) | Fried Chicken 
+- [ ] Hanaa Food California | Food / Restaurant | [Instagram](https://www.instagram.com/hanaafood_california/?hl=fr)
+- [ ] Chokies |  Burdwich , Burger & Sundae | [Instagram](https://www.instagram.com/chokiesofficiel/)
 
 ---
 
@@ -97,3 +101,21 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 ## 🍟 Fast Food
 
 - [ ] McDonald's | Fast Food | [Instagram](https://www.instagram.com/mcdonalds/?hl=fr)
+
+---
+
+## ✅ Tried & Tested
+
+> [!success] Move completed visits here
+
+- [x] Sample Tried Spot
+
+### ⭐ Experience Rating
+
+- **Food:** /10
+- **Service:** /10
+- **Value for Money:** /10
+- **Would Visit Again:** Yes / No
+
+**Notes:**
+
