@@ -26,6 +26,19 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Blend Gourmet Burger | Gourmet Burgers | [Instagram](https://www.instagram.com/blendgourmetburger/)
 - [ ] Grillz Burger | Burgers | [Instagram](https://www.instagram.com/grillz_burger_/)
 - [ ] But Better Burger | Burgers | [Instagram](https://www.instagram.com/but.better.burger/)
+- [ ] Chick'n Beef Casablanca | Burgers & Chicken | [Instagram](https://www.instagram.com/chicknbeefcasablanca/)
+- [ ] Pastrama Deli & Craft Burger | Gourmet / Pastrami Burgers | https://pastrama.ma
+- [ ] Ladoze Street Burger | Smash Burgers | Oasis / Boulevard de Nice | [Instagram](https://www.instagram.com/ladozemaroc/)
+- [ ] Easy Burger | Smash Burgers | Rue Ennahas Annahoui
+- [ ] Medina Burger Anfa | Moroccan Fusion Burgers | Boulevard d'Anfa
+- [ ] Burger Glory | Homemade Burgers | Rue Oussama Ibnou Zaid
+- [ ] L'Atelier Burger | Gourmet Burgers | Gauthier
+- [ ] Mister Jack | Smash Burgers & Hot Dogs | Rue Imam Al Boukhari
+- [ ] MIGA Burger | Street Food Burgers | Avenue des Sports
+- [ ] CLUKY'S | Chicken & Smash Burgers | Maârif
+- [ ] 212 Smash Burger | Smash Burgers | O'Village / Aeria Mall
+- [ ] Oh My Bun | Burgers | [Instagram](https://www.instagram.com/ohmybun.ma/)
+- [ ] Picks Maroc | Burgers / Fast Food | [Instagram](https://www.instagram.com/picks_maroc)
 
 ### Burger Chains & Fast Food
 
@@ -50,6 +63,13 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Allo Anass | Street Food | [Instagram](https://www.instagram.com/allo_anass/?hl=fr)
 - [ ] BLJ | Street Food | [Instagram](https://www.instagram.com/blj_maroc/)
 - [ ] 125Original | Tacos | [Instagram](https://www.instagram.com/125original/)
+- [ ] Le Ghost | Food / Street Food | [Instagram](https://www.instagram.com/le_ghostm)
+- [ ] Chicken Fusion | Chicken & Fast Food | [Instagram](https://www.instagram.com/chicken.fusion_/)
+- [ ] Batbut Restaurant | Batbout & Moroccan Street Food | [Instagram](https://www.instagram.com/batbut_restaurant/)
+- [ ] Kuku Chicken Gauthier | Chicken & Fast Food | [Instagram](https://www.instagram.com/kukuchickengauthier/)
+- [ ] Tacos Only Morocco | Tacos & Street Food | [Instagram](https://www.instagram.com/tacosonly_morocco/)
+- [ ] KFC | Fried Chicken & Burgers
+- [ ] Chicken Crispy (FDerb) | Fried Chicken 
 
 ---
 
@@ -70,26 +90,10 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] NYC Cookies | Cookies & Sweets | [Glovo](https://glovoapp.com/fr/ma/casablanca/nyc-cookies-cas/)
 - [ ] Donuts Factory | Donuts & Desserts | [Glovo](https://glovoapp.com/fr/ma/casablanca/donuts-factory-cas/)
 - [ ] Dip N Dip | Waffles, Crepes & Chocolate | [Glovo](https://glovoapp.com/fr/ma/casablanca/dip-n-dip-cas/)
+- [ ] Chokies Officiel | Cookies & Sweets | [Instagram](https://www.instagram.com/chokiesofficiel)
 
 ---
 
 ## 🍟 Fast Food
 
 - [ ] McDonald's | Fast Food | [Instagram](https://www.instagram.com/mcdonalds/?hl=fr)
-
----
-
-## ✅ Tried & Tested
-
-> [!success] Move completed visits here
-
-- [x] Sample Tried Spot
-
-### ⭐ Experience Rating
-
-- **Food:** /10
-- **Service:** /10
-- **Value for Money:** /10
-- **Would Visit Again:** Yes / No
-
-**Notes:**
