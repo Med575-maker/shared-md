@@ -13,7 +13,7 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Joe's Pizza Detroit Style | Detroit-style pizza | [Instagram](https://www.instagram.com/joespizzadetroitstyle/?hl=fr)
 - [ ] Pizza Di Papi | Rue Ahmed El Joumari, Casablanca | [Instagram](https://www.instagram.com/pizzadipapi/?hl=fr)
 - [ ] Velucci | 42 Rue Moaffiq Eddine, Quartier des Hôpitaux, Casablanca
-- [ ] Little Mama
+- [ ] Little Mama For Pizza | Pizza
 
 ---
 
@@ -35,12 +35,16 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Burger Glory | Homemade Burgers | Rue Oussama Ibnou Zaid
 - [ ] L'Atelier Burger | Gourmet Burgers | Gauthier
 - [ ] Mister Jack | Smash Burgers & Hot Dogs | Rue Imam Al Boukhari
-- [ ] MIGA Burger | Street Food Burgers | Avenue des Sports
 - [ ] CLUKY'S | Chicken & Smash Burgers | Maârif
 - [ ] 212 Smash Burger | Smash Burgers | O'Village / Aeria Mall
 - [ ] Oh My Bun | Burgers | [Instagram](https://www.instagram.com/ohmybun.ma/)
 - [ ] Blast | Burgers | [Instagram](https://www.instagram.com/blastcasablanca/)
-- [ ] Picks Maroc | Burgers / Fast Food | [Instagram](https://www.instagram.com/picks_maroc)
+- [ ] Picks Maroc | Burgers / Fast Food | [Instagram](https://www.instagram.com/picks_maroc/)
+- [ ] Bunzilla Morocco | Burgers | [Instagram](https://www.instagram.com/bunzillamorocco/)
+- [ ] MIGA Burger Truck | Burger Food Truck | [Instagram](https://www.instagram.com/miga_burger_truck/?utm_source=chatgpt.com)
+- [ ] Black Bun Casablanca | Burgers | [Instagram](https://www.instagram.com/blackbun_casablanca/?utm_source=chatgpt.com)
+- [ ] La Table du Burger | Burgers | [Instagram](https://www.instagram.com/latableduburger/?utm_source=chatgpt.com)
+- [ ] Crave | Burgers | [Instagram](https://www.instagram.com/crave_officielle/)
 
 ### Burger Chains & Fast Food
 
@@ -71,9 +75,20 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Kuku Chicken Gauthier | Chicken & Fast Food | [Instagram](https://www.instagram.com/kukuchickengauthier/)
 - [ ] Tacos Only Morocco | Tacos & Street Food | [Instagram](https://www.instagram.com/tacosonly_morocco/)
 - [ ] KFC | Fried Chicken & Burgers
-- [ ] Chicken Crispy (FDerb) | Fried Chicken 
+- [ ] Chicken Crispy (F Derb) | Fried Chicken
 - [ ] Hanaa Food California | Food / Restaurant | [Instagram](https://www.instagram.com/hanaafood_california/?hl=fr)
-- [ ] Chokies |  Burdwich , Burger & Sundae | [Instagram](https://www.instagram.com/chokiesofficiel/)
+- [ ] Chokies | Burdwich, Burger & Sundae | [Instagram](https://www.instagram.com/chokiesofficiel/)
+- [ ] Tacos de Paris | Tacos & Street Food | [Instagram](https://www.instagram.com/tacosdeparis/)
+- [ ] O'Fromage Doner | Doner / Cheese Street Food | [Instagram](https://www.instagram.com/ofromagedoner/)
+- [ ] Zawiya Chicken | Fried Chicken / Chicken | Arrehma, Casablanca
+- [ ] PamPam Morocco | Food / Restaurant | [Instagram](https://www.instagram.com/pampam_morocco)
+- [ ] Casa Dopamine | Food / Restaurant | [Instagram](https://www.instagram.com/casa_dopamine/)
+
+---
+
+## 🥙 Paratha & Moroccan Street Food
+
+- [ ] Zay Paratha | Paratha & Street Food | [Instagram](https://www.instagram.com/zay_paratha/)
 
 ---
 
@@ -82,6 +97,7 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Sumo Sushis | Asian & Sushi Platters | [Glovo](https://glovoapp.com/fr/ma/casablanca/sumo-sushis-cas/)
 - [ ] Sushi Avenue | Sushi & Japanese Specialties | [Glovo](https://glovoapp.com/fr/ma/casablanca/sushi-avenue-cas/)
 - [ ] Sushis For Groups | Sushi Trays & Combos | [Glovo](https://glovoapp.com/fr/ma/casablanca/sushis-for-groups-cas/)
+- [ ] Bamboo Sushi | Sushi & Japanese Food
 
 ---
 
@@ -109,6 +125,8 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 > [!success] Move completed visits here
 
 - [x] Sample Tried Spot
+- [x] Mcdo big mac (not bad)
+- [x] bambo enjoy pack (i liked fried sushi)
 
 ### ⭐ Experience Rating
 
@@ -118,4 +136,3 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - **Would Visit Again:** Yes / No
 
 **Notes:**
-
