@@ -28,23 +28,31 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Grillz Burger | Burgers | [Instagram](https://www.instagram.com/grillz_burger_/)
 - [ ] But Better Burger | Burgers | [Instagram](https://www.instagram.com/but.better.burger/)
 - [ ] Chick'n Beef Casablanca | Burgers & Chicken | [Instagram](https://www.instagram.com/chicknbeefcasablanca/)
-- [ ] Pastrama Deli & Craft Burger | Gourmet / Pastrami Burgers | https://pastrama.ma
+- [ ] Pastrama Deli & Craft Burger | Gourmet / Pastrami Burgers | [Website](https://pastrama.ma)
 - [ ] Ladoze Street Burger | Smash Burgers | Oasis / Boulevard de Nice | [Instagram](https://www.instagram.com/ladozemaroc/)
 - [ ] Easy Burger | Smash Burgers | Rue Ennahas Annahoui
 - [ ] Medina Burger Anfa | Moroccan Fusion Burgers | Boulevard d'Anfa
 - [ ] Burger Glory | Homemade Burgers | Rue Oussama Ibnou Zaid
 - [ ] L'Atelier Burger | Gourmet Burgers | Gauthier
-- [ ] Mister Jack | Smash Burgers & Hot Dogs | Rue Imam Al Boukhari
+- [ ] Mister Jack | Smash Burgers & Hot Dogs | Rue Imam Al Boukhari | [Instagram](https://www.instagram.com/misterjack.restaurant/)
 - [ ] CLUKY'S | Chicken & Smash Burgers | Maârif
-- [ ] 212 Smash Burger | Smash Burgers | O'Village / Aeria Mall
+- [ ] 212 Smash Burger | Burgers | O'Village / Aeria Mall
 - [ ] Oh My Bun | Burgers | [Instagram](https://www.instagram.com/ohmybun.ma/)
 - [ ] Blast | Burgers | [Instagram](https://www.instagram.com/blastcasablanca/)
 - [ ] Picks Maroc | Burgers / Fast Food | [Instagram](https://www.instagram.com/picks_maroc/)
 - [ ] Bunzilla Morocco | Burgers | [Instagram](https://www.instagram.com/bunzillamorocco/)
-- [ ] MIGA Burger Truck | Burger Food Truck | [Instagram](https://www.instagram.com/miga_burger_truck/?utm_source=chatgpt.com)
-- [ ] Black Bun Casablanca | Burgers | [Instagram](https://www.instagram.com/blackbun_casablanca/?utm_source=chatgpt.com)
-- [ ] La Table du Burger | Burgers | [Instagram](https://www.instagram.com/latableduburger/?utm_source=chatgpt.com)
+- [ ] MIGA Burger Truck | Burger Food Truck | [Instagram](https://www.instagram.com/miga_burger_truck/)
+- [ ] Black Bun Casablanca | Burgers | [Instagram](https://www.instagram.com/blackbun_casablanca/)
+- [ ] La Table du Burger | Burgers | [Instagram](https://www.instagram.com/latableduburger/)
 - [ ] Crave | Burgers | [Instagram](https://www.instagram.com/crave_officielle/)
+- [ ] Bunzy | Burgers | [Instagram](https://www.instagram.com/bunzy.ma/)
+- [ ] Burger Les Dalton | Burgers | [Instagram](https://www.instagram.com/burgerlesdalton)
+- [ ] B Square | Burgers / Food | [Instagram](https://www.instagram.com/bsquare.ma/)
+- [ ] Chick'nster | Chicken & Burgers | [Instagram](https://www.instagram.com/chicknster/)
+- [ ] Thami Burger | Burgers | [Instagram](https://www.instagram.com/thamiburger/?g=5)
+- [ ] Brutt Kitchen Coffee | Restaurant / Coffee & Food | [Instagram](https://www.instagram.com/brutt.kitchen.coffee/?g=5)
+- [ ] EURO SNACK ✨🇲🇦 | First smash burger ever 💥
+- [ ] Bistrot Burger Aïn Sebaâ | Burgers | [Instagram](https://www.instagram.com/bistrot.burger.ainsbaa/)
 
 ### Burger Chains & Fast Food
 
@@ -83,6 +91,9 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] Zawiya Chicken | Fried Chicken / Chicken | Arrehma, Casablanca
 - [ ] PamPam Morocco | Food / Restaurant | [Instagram](https://www.instagram.com/pampam_morocco)
 - [ ] Casa Dopamine | Food / Restaurant | [Instagram](https://www.instagram.com/casa_dopamine/)
+- [ ] Chicken Issam | Chicken & Fast Food | [Instagram](https://www.instagram.com/chickenissam)
+- [ ] Rapid Crousti | Crispy Chicken & Fast Food | [Instagram](https://www.instagram.com/rapidcrousti.ma/)
+- [ ] Kebab Adana 6 | Adana Kebab & Turkish Street Food | [Instagram](https://www.instagram.com/kebab_adana6/)
 
 ---
 
@@ -110,7 +121,7 @@ tags: [wishlist, food, cheat-meals, burgers, casablanca]
 - [ ] NYC Cookies | Cookies & Sweets | [Glovo](https://glovoapp.com/fr/ma/casablanca/nyc-cookies-cas/)
 - [ ] Donuts Factory | Donuts & Desserts | [Glovo](https://glovoapp.com/fr/ma/casablanca/donuts-factory-cas/)
 - [ ] Dip N Dip | Waffles, Crepes & Chocolate | [Glovo](https://glovoapp.com/fr/ma/casablanca/dip-n-dip-cas/)
-- [ ] Chokies Officiel | Cookies & Sweets | [Instagram](https://www.instagram.com/chokiesofficiel)
+- [ ] Chokies Officiel | Cookies & Sweets | [Instagram](https://www.instagram.com/chokiesofficiel/)
 
 ---
 
